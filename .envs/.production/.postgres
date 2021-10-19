@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=candlecommerce
+POSTGRES_USER=ToxItlSeFDszsMbOqDSyoSVJuGPNWjkd
+POSTGRES_PASSWORD=oGkacSh4oimWRD9yjFSQKX98aPSRJcRoVUmPVzmlzr5pUtegZoD07pTUfVsEYkUk
